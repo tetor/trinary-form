@@ -1,0 +1,19 @@
+{
+  "name": "trinary-form",
+  "version": "0.0.1",
+  "description": "",
+  "main": "trinary-form.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tetor/trinary-form.git"
+  },
+  "author": "tetor <tetor.takashi.etou@gmail.com>",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/tetor/trinary-form/issues"
+  },
+  "homepage": "https://github.com/tetor/trinary-form#readme"
+}
